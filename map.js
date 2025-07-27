@@ -13,8 +13,8 @@ var interactive_map = new InteractiveMap('map', {
     max_good_zoom: 4,
     // This is the max zoom the map will allow
     max_map_zoom: 5,
-    website_source: 'https://github.com/sh1ndoo/Norn',
-    website_subdir: 'Norn',
+    website_source: 'https://tos.ifknow.ru',
+    // website_subdir: 'Norn',
     attribution: `
     <li>This project uses sample images from <a href="https://picsum.photos/">picsum.photos</a></li>
 `
