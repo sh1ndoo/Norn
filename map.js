@@ -44,10 +44,7 @@ interactive_map.addTileLayer('Ingame map', {
 // Add at least one marker layer
 // The order matters - they will appear in this order in the sidebar and layer control
 // See `marker_logic/collectibles.js` for a really basic layer
-addCatSpots(interactive_map);
 addJarSpots(interactive_map);
-addBubbleCat(interactive_map);
-addCameraSpots(interactive_map);
 addNpc(interactive_map);
 
 
