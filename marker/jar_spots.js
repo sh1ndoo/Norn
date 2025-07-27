@@ -10,8 +10,8 @@ var jar_spots = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    243,
-                    -39.5
+                    54.5,
+                    -27.5
                 ]
             }
         },
@@ -24,64 +24,8 @@ var jar_spots = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    224.5,
-                    -49
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "id": "03",
-                "description": "."
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    138,
-                    -150
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "id": "04",
-                "description": "."
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    107.5,
-                    -207.25
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "id": "05",
-                "description": "."
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    115.25,
-                    -216.75
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "id": "06",
-                "description": "."
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    63,
-                    -221.75
+                    61.875,
+                    -35.875
                 ]
             }
         }
