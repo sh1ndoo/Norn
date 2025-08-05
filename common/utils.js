@@ -98,7 +98,7 @@ class Utils {
                 case 'http:':
                 case 'https:':
                     //remote file over http or https
-                    history.replaceState({}, "", `/${website_subdir}/`);
+                    history.replaceState({}, "", `/`);
                     break;
                 case 'file:':
                     //local file
